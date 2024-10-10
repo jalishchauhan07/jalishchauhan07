@@ -14,10 +14,15 @@ Backend: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-ba
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Frontend: HTML5, React.js
-Database: MongoDB, MySQL
-Game Development: Phaser.js, Three.js
-Version Control: Git
+Frontend: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+Database: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Game Development: ![Phaser.js](https://img.shields.io/badge/Phaser.js-007ACC?style=for-the-badge&logo=phaser&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+Version Control: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 Testing: Automated Testing, CI/CD
 
 # 🔭 Current Work
