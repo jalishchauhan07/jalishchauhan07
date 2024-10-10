@@ -38,6 +38,7 @@ Optimizing application performance and monitoring systems
 # 📫 How to reach me
 
 Email: chauhanjalish005@gmail.com
+
 Location: Ahmedabad, Gujarat
 
 ![Visitor Count](https://profile-counter.glitch.me/jalishchauhan07/count.svg)
