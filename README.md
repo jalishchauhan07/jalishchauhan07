@@ -10,11 +10,14 @@ Backend Developer passionate about building scalable applications and creating e
 
 # 🛠️ Tech Stack
 
-Backend: Node.js, Express.js, TypeScript
-Frontend: React.js
+Backend: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+Frontend: HTML5, React.js
 Database: MongoDB, MySQL
 Game Development: Phaser.js, Three.js
-Tools & Others: Git, GitHub Actions, Flutter
+Version Control: Git
 Testing: Automated Testing, CI/CD
 
 # 🔭 Current Work
