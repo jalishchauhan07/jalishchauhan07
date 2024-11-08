@@ -4,7 +4,7 @@ Full Stack Developer passionate about building scalable applications and creatin
 # 🚀 About Me
 
 💻 Full Stack Developer with expertise in Next.js, Postgresql, Node.js and Express.js
-🛠️ Currently working at Dicot Innovation, Ahmedabad
+🛠️ Currently working at Digilize Solutions, Ahmedabad
 🎓 B.Tech in Computer Science from Navrachana University
 🌟 Specialized in building RESTful APIs and integrating third-party services
 
